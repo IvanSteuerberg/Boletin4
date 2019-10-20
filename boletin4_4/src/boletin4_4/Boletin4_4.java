@@ -15,7 +15,7 @@ public class Boletin4_4 {
         System.out.println("Saldo da conta1: " + conta1.getSaldo() + "\n Saldo da conta2: " + conta2.getSaldo());
         conta1.transferencia(conta2, 200);
         System.out.println("Saldo da conta1 despois da transferencia " + conta1.getSaldo()
-                + "\nSaldo da conta2 despois da transferencia: " + conta2.getSaldo());
+                + "\nSaldo da conta2 despois da transferencia:  " + conta2.getSaldo());
 
     }
 
